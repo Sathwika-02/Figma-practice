@@ -1,0 +1,147 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.side1 img {
+  position: relative;
+  height: 90vh;
+  width: 350px;
+  top: 50px;
+  right: 45px;
+  border-radius: 58px;
+  height: 100vh;
+}
+
+.side2 h1 {
+  margin-top: 40px;
+  padding-left: 100px;
+  font-size: 46px;
+  padding-right: 100px;
+  padding-left: 160px;
+  margin-right: 120px;
+  font-weight: bold;
+  word-spacing: 2px;
+  color: #091133;
+}
+
+#id1 {
+  padding-left: 160px;
+  margin-right: 40px;
+  padding-right: 80px;
+  color: #6F7CB2;
+  margin-top: 15px;
+}
+
+#id2 {
+  padding-left: 160px;
+  margin-right: 40px;
+  padding-right: 80px;
+  color: #6F7CB2;
+  margin-top: 15px;
+}
+
+.side3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40px;
+  padding-left: 80px;
+  margin-left: 80px;
+}
+.side3 p {
+  padding-left: 2px;
+  margin-left: 3px;
+  margin-top: 6px;
+  padding-right: 20px;
+  margin-right: 40px;
+  color: #5D6970;
+}
+.side3 h3 {
+  margin-top: 5px;
+  color: #091133;
+}
+
+.flex1 {
+  display: flex;
+  height: 100%;
+  justify-content: center;
+}
+
+.one {
+  display: flex;
+}
+
+.image1 {
+  padding-right: 20px;
+}
+
+.text1 p {
+  padding-right: 20px;
+}
+
+.two {
+  display: flex;
+  margin-right: 100px;
+}
+
+.image2 {
+  padding-right: 20px;
+}
+
+.text2 p {
+  padding-right: 20px;
+}
+
+.side4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40px;
+  padding-left: 80px;
+  margin-left: 80px;
+}
+.side4 h3 {
+  margin-top: 5px;
+  color: #091133;
+}
+.side4 p {
+  padding-left: 2px;
+  margin-left: 3px;
+  margin-top: 6px;
+  padding-right: 20px;
+  margin-right: 80px;
+  color: #5D6970;
+}
+
+.flex2 {
+  display: flex;
+}
+
+.three {
+  display: flex;
+}
+
+.image3 {
+  padding-right: 20px;
+}
+
+.four {
+  display: flex;
+  padding-right: 100px;
+}
+
+.image4 {
+  padding-right: 20px;
+}
+
+/*# sourceMappingURL=style.css.map */
